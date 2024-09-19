@@ -5,7 +5,7 @@ sou componente curricular de pensamento conputacional pela rede estadual de educ
 
 utilizo a plataforma [ALURA](https://alura.com.br)
 
-###você pode entrar em contato comigo
+### você pode entrar em contato comigo
 
 barreto.thales@escola.pr.gov.br
 
