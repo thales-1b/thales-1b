@@ -9,4 +9,4 @@ utilizo a plataforma [ALURA](https://alura.com.br)
 
 barreto.thales@escola.pr.gov.br
 
-![](https://media1.tenor.com/m/JEO6b9n5yRMAAAAd/darling-in-the-franxx.gif)
+![](https://media1.tenor.com/m/355JpFxT500AAAAC/darling-in-the-franxx-zero-two.gif)
